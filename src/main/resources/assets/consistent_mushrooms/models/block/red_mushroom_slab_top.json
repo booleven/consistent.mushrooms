@@ -1,0 +1,8 @@
+{
+  "parent": "block/slab_top",
+  "textures": {
+    "bottom": "consistent_mushrooms:block/red_mushroom_planks",
+    "top": "consistent_mushrooms:block/red_mushroom_planks",
+    "side": "consistent_mushrooms:block/red_mushroom_planks"
+  }
+}

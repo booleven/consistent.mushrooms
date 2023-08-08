@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":    { "model": "consistent_mushrooms:block/stripped_brown_mushroom_stem" },
+    "axis=z":     { "model": "consistent_mushrooms:block/stripped_brown_mushroom_stem", "x": 90 },
+    "axis=x":     { "model": "consistent_mushrooms:block/stripped_brown_mushroom_stem", "x": 90, "y": 90 }
+  }
+}

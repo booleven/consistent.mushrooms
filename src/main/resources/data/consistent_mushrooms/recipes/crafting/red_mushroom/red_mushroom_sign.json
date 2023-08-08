@@ -1,0 +1,1 @@
+{"type":"minecraft:crafting_shaped","pattern":["###","###"," x "],"key":{"#":{"item":"consistent_mushrooms:red_mushroom_planks"},"x":{"tag":"forge:rods/wooden"}},"result":{"item":"consistent_mushrooms:red_mushroom_sign","count":3}}

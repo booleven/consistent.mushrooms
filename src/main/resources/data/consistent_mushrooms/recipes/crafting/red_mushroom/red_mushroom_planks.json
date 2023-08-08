@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "planks",
+  "ingredients": [
+    {
+      "tag": "consistent_mushrooms:red_mushroom_stems"
+    }
+  ],
+  "result": {
+    "item": "consistent_mushrooms:red_mushroom_planks",
+    "count": 4
+  }
+}

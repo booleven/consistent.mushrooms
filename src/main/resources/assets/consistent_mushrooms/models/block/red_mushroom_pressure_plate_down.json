@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_down",
+  "textures": {
+    "texture": "consistent_mushrooms:block/red_mushroom_planks"
+  }
+}

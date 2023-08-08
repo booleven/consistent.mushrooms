@@ -1,0 +1,6 @@
+{
+  "variants": {
+    "powered=false": { "model": "consistent_mushrooms:block/red_mushroom_pressure_plate" },
+    "powered=true": { "model": "consistent_mushrooms:block/red_mushroom_pressure_plate_down" }
+  }
+}
