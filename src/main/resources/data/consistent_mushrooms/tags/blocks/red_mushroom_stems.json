@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "consistent_mushrooms:stripped_red_mushroom_stem",
+    "consistent_mushrooms:stripped_red_mushroom_hyphae",
+    "consistent_mushrooms:red_mushroom_stem",
+    "consistent_mushrooms:red_mushroom_hyphae"
+  ]
+}

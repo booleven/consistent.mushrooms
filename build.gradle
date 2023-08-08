@@ -4,9 +4,9 @@ plugins {
     id 'net.minecraftforge.gradle' version '5.1.+'
 }
 
-version = '1.0.0-1.19.2'
-group = 'com.booleven.modid' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = 'modid'
+version = '1.0-1.19.2'
+group = 'com.booleven.consistent_mushrooms' // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = 'consistent_mushrooms'
 
 // Mojang ships Java 17 to end users in 1.18+, so your mod should target Java 17.
 java.toolchain.languageVersion = JavaLanguageVersion.of(17)
@@ -28,7 +28,9 @@ minecraft {
     // Simply re-run your setup task after changing the mappings to update your workspace.
     mappings channel: 'official', version: '1.19.2'
 
-    // accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg') // Currently, this location cannot be changed from the default.
+    minecraft {
+        accessTransformer = file('src/main/resources/META-INF/accesstransformer.cfg')
+    }
 
     // Default run configurations.
     // These can be tweaked, removed, or duplicated as needed.
